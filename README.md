@@ -2,7 +2,7 @@
 
 Tableflow publishes an Iceberg REST Catalog (IRC) endpoint for each Confluent Cloud environment. This guide connects Snowflake to that endpoint, registers your Kafka topic as an Iceberg table in Snowflake's Horizon Catalog, and gets you to a working SQL query against live Kafka data.
 
-**Before you start:** Complete `00-setup.md` in full.
+**Before you start:** Complete [the prerequisite setup](00-setup.md) in full.
 
 Complete these steps:
 
